@@ -1,0 +1,20 @@
+{
+    "nombreApp" : "Componentes",
+    "rutas" : [
+        {
+            "ruta" : "about_me",
+            "icon" : "person",
+            "texto": "About me"
+        },
+        {
+            "ruta" : "hobbies",
+            "icon" : "self_improvement",
+            "texto": "Hobbies"
+        },
+        {
+            "ruta" : "career",
+            "icon" : "engineering",
+            "texto": "Career"
+        }
+    ]
+}
